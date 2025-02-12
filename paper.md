@@ -14,3 +14,4 @@ this talk, I will present our recent three-body results of the ground and low-ly
 using the Gaussian-expansion method (GEM) combined with the complex-scaling method (CSM) [JS et al 2024]. 
 Casal et al (2020) conducted study on 29F for N=20 in this IoI.
 
+Motivated by recent experimental observation of Borromean in  N=20, we extend it for N=28.
