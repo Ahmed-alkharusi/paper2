@@ -15,3 +15,6 @@ using the Gaussian-expansion method (GEM) combined with the complex-scaling meth
 Casal et al (2020) conducted study on 29F for N=20 in this IoI.
 
 Motivated by recent experimental observation of Borromean in  N=20, we extend it for N=28.
+
+#Simulations
+New theoretical core+n models are simulated based on avaialble theoretical predictions and data.
