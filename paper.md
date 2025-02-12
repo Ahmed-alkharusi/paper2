@@ -1,8 +1,8 @@
 #Title
-New  measurements in Two-neutron halos in the island of inversion for N=20 and 28
+New  measurements and simulations in two-neutron halos in the island of inversion for N=20 and 28
 
 #Author
-Jagjit Singh
+Jagjit Singh, Kevin Fossez, T. Nakamura, A. Navin, K. Ogata
 
 #Introduction
 The structure and reactions of exotic nuclei play a crucial role in astrophysical processes, particularly in nucleosynthesis. 
@@ -15,3 +15,6 @@ using the Gaussian-expansion method (GEM) combined with the complex-scaling meth
 Casal et al (2020) conducted study on 29F for N=20 in this IoI.
 
 Motivated by recent experimental observation of Borromean in  N=20, we extend it for N=28.
+
+#Simulations
+New theoretical core+n models are simulated based on avaialble theoretical predictions and data.
