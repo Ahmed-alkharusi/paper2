@@ -12,3 +12,5 @@ in explosive stellar environments. Given the weakly bound nature of 9C, its stru
  accurately modelling its reaction dynamics and extracting the astrophysical reaction rate for 8B(p,γ)9C. In 
 this talk, I will present our recent three-body results of the ground and low-lying continuum states of 9C 
 using the Gaussian-expansion method (GEM) combined with the complex-scaling method (CSM) [JS et al 2024]. 
+Casal et al (2020) conducted study on 29F for N=20 in this IoI.
+
