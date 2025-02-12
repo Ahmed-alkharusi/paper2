@@ -18,3 +18,6 @@ Motivated by recent experimental observation of Borromean in  N=20, we extend it
 
 #Simulations
 New theoretical core+n models are simulated based on avaialble theoretical predictions and data.
+
+#Methodology
+Their key structural properties will be discussed within a three-body (core+n+n) framework using the hyperspherical-harmonics formalism with analytical-transformed harmonic-oscillator basis. For the reaction aspect, I will discuss total reaction cross-section predictions using the conventional Glauber reaction theory (Casal PhD Thesis 2016).
