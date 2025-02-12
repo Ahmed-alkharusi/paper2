@@ -24,3 +24,5 @@ Their key structural properties will be discussed within a three-body (core+n+n)
 
 #Results
 We present our three-body results and reaction cross section results.
+#Figures
+Figures go in their own section in a draft paper.
