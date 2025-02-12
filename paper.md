@@ -21,3 +21,6 @@ New theoretical core+n models are simulated based on avaialble theoretical predi
 
 #Methodology
 Their key structural properties will be discussed within a three-body (core+n+n) framework using the hyperspherical-harmonics formalism with analytical-transformed harmonic-oscillator basis. For the reaction aspect, I will discuss total reaction cross-section predictions using the conventional Glauber reaction theory (Casal PhD Thesis 2016).
+
+#Results
+We present our three-body results and reaction cross section results.
