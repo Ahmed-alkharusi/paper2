@@ -1,8 +1,8 @@
 #Title
-Two-neutron halos: A quantum tale of fragile stability
+Borromeans in  the island of inversion for N=20 and N=28
 
 #Author
-Jagjit Singh
+Jagjit Singh, Kevin Fossez, T. Nakamura, A. Navin, K. Ogata
 
 #Introduction
 The structure and reactions of exotic nuclei play a crucial role in astrophysical processes, particularly in nucleosynthesis. 
