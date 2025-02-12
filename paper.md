@@ -24,5 +24,10 @@ Their key structural properties will be discussed within a three-body (core+n+n)
 
 #Results
 We present our three-body results and reaction cross section results.
+
 #Figures
 Figures go in their own section in a draft paper.
+
+#Conclusions
+We studied for the first time few-body dynamics of the Borromeans.
+Nonetheless, questions remain unanswered, so we should get more funding. 
