@@ -2,7 +2,7 @@
 New  measurements and simulations in two-neutron halos in the island of inversion for N=20 and 28
 
 #Author
-Jagjit Singh, Kevin Fossez, T. Nakamura, A. Navin, K. Ogata
+Kevin Fossez, Jagjit Singh, T. Nakamura, A. Navin, K. Ogata
 
 #Introduction
 The structure and reactions of exotic nuclei play a crucial role in astrophysical processes, particularly in nucleosynthesis. 
